@@ -12,6 +12,8 @@
 
 #### WYSIWYG UI Builders
 
+- [Framer X](https://framer.com/x/) -Interactive design for everyone.
+  - Use actual React in your projects to create interactive components from scratch.
 - [Interplay](https://interplayapp.com/) - Prototype fast with your design system code components.
   - Create prototypes as easily as sketch & invision, but with real code.
   - Supports React, Vue, Angular, etc.
@@ -24,13 +26,13 @@
 #### Component Library Style Guides
 
 - [docz](https://github.com/pedronauck/docz) - It has never been so easy to document your things!
-- [x0](https://github.com/c8r/x0) - Document & develop react components without breaking a sweat.
-- [Styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated react component development environment with a living style guide.
+- [x0](https://github.com/c8r/x0) - Document & develop React components without breaking a sweat.
+- [Styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide.
 - [Storybook](https://github.com/storybooks/storybook) - Interactive UI component dev & test.
 
 #### Useful React Libraries
 
-- [Kit](https://github.com/c8r/kit) - Tools for developing, documenting, and testing react component libraries.
+- [Kit](https://github.com/c8r/kit) - Tools for developing, documenting, and testing React component libraries.
   - Only 2 months old.
   - [Responsive](https://github.com/c8r/kit/blob/master/docs/Responsive.md) - Displays children in `<iframe>`s, using the `Frame` component, at multiple viewport sizes.
   - [XRay](https://github.com/c8r/kit/blob/master/docs/XRay.md) - Displays a grid and adds outlines to children.
@@ -44,12 +46,12 @@
   - [Catch](https://github.com/c8r/kit/blob/master/docs/Catch.md) - React `componentDidCatch` component that displays errors. Kind of like react-native's RedBox.
 - [MDX](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects.
   - Combines the readability of Markdown with the expressivity and power of JSX.
-- [react-live](https://github.com/formidablelabs/react-live) - A production-focused playground for live editing react components.
+- [react-live](https://github.com/formidablelabs/react-live) - A production-focused playground for live editing React components.
   - Transpiles code from Prism editor via buble client-side.
   - Doesn't support imports but does support custom scope.
-- [component-playground](https://github.com/formidablelabs/component-playground) - Renders react components with editable source and live preview.
+- [component-playground](https://github.com/formidablelabs/component-playground) - Renders React components with editable source and live preview.
   - Transpiles code from Codemirror editor via babel-standalone client-side.
-- [react-docgen](https://github.com/reactjs/react-docgen) - Extracts documentation info from react component files.
+- [react-docgen](https://github.com/reactjs/react-docgen) - Extracts documentation info from React component files.
 
 #### Useful General Libraries
 
@@ -57,7 +59,7 @@
 
 #### Mad Science
 
-- [react-suspense](https://github.com/facebook/react/tree/master/fixtures/unstable-async/suspense) - Consistent way of handling asynchronicity in react.
+- [react-suspense](https://github.com/facebook/react/tree/master/fixtures/unstable-async/suspense) - Consistent way of handling asynchronicity in React.
   - Could be used, for example, to easily async import components that are transpiled on the server.
 
 ## Reading
