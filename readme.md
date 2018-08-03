@@ -1,6 +1,6 @@
-# Hydrate React Research
+# Hydrate Research
 
-> React Design System and UI Builder Research for [Hydrate](https://www.hydrate.io).
+> React design system and UI builder research for [Hydrate](https://www.hydrate.io).
 
 ## Companies
 
