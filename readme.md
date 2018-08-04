@@ -12,7 +12,7 @@
 
 #### WYSIWYG UI Builders
 
-- [Framer X](https://framer.com/x/) -Interactive design for everyone.
+- [Framer X](https://framer.com/x/) - Interactive design for everyone.
   - Use actual React in your projects to create interactive components from scratch.
 - [Interplay](https://interplayapp.com/) - Prototype fast with your design system code components.
   - Create prototypes as easily as sketch & invision, but with real code.
