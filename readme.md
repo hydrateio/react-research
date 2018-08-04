@@ -33,6 +33,7 @@
 - [docz](https://github.com/pedronauck/docz) - It has never been so easy to document your things!
 - [x0](https://github.com/c8r/x0) - Document & develop React components without breaking a sweat.
 - [Styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide.
+- [Pattern Plate](https://github.com/patternplate/patternplate) - Connects design and engineering to establish a single source of truth for your team.
 
 #### Useful React Libraries
 
