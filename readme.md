@@ -69,7 +69,6 @@
 
 ## Reading
 
-- [
 - [Pure UI](https://rauchg.com/2015/pure-ui)
 - [Interfaces](https://spectrum.chat/thread/ac4cba39-0582-4b73-9582-9e863ed66346)
 
