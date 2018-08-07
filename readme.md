@@ -45,7 +45,7 @@
   - [Frame](https://github.com/c8r/kit/blob/master/docs/Frame.md) - Renders children in an `<iframe>` – useful for testing responsive layouts and ensuring isolation from the parent document.
   - [Cartesian](https://github.com/c8r/kit/blob/master/docs/Cartesian.md) - Display the cartesian product of component props.
   - [Matrix](https://github.com/c8r/kit/blob/master/docs/Matrix.md) - Displays a matrix of component permutations.
-  - [LiveEditor](https://github.com/c8r/kit/blob/master/docs/LiveEditor.md) - The LiveEditor component is a wrapper around [react-live][https://github.com/FormidableLabs/react-live], with basic UI and a [ThemeProvider][https://www.styled-components.com/docs/advanced#theming].
+  - [LiveEditor](https://github.com/c8r/kit/blob/master/docs/LiveEditor.md) - The LiveEditor component is a wrapper around [react-live](https://github.com/FormidableLabs/react-live), with basic UI and a [ThemeProvider](https://www.styled-components.com/docs/advanced#theming).
   - [PropsForm](https://github.com/c8r/kit/blob/master/docs/PropsForm.md) - Add form controls to adjust a component's props.
   - [Diff](https://github.com/c8r/kit/blob/master/docs/Diff.md) - Shows a visual diff between two elements.
   - [Font](https://github.com/c8r/kit/blob/master/docs/Font.md) - Set font-family and other typographic styles.  Also provides a convenient webfont loader using [Google Fonts](https://fonts.google.com/).
