@@ -28,6 +28,7 @@
   - This tool does a lot of what we're looking to do and is open source.
 - [Storybook](https://github.com/storybooks/storybook) - Interactive UI component dev & test.
 - [Structor](https://github.com/ipselon/structor) - React UI Builder.
+- [Tipe.io](https://tipe.io/) - Autogenerate graph schemas, live-edit content in browser
 
 #### Component Library Style Guides
 
