@@ -28,7 +28,7 @@
   - This tool does a lot of what we're looking to do and is open source.
 - [Storybook](https://github.com/storybooks/storybook) - Interactive UI component dev & test.
 - [Structor](https://github.com/ipselon/structor) - React UI Builder.
-- [Tipe.io](https://tipe.io/) - Autogenerate graph schemas, live-edit content in browser
+- [Tipe.io](https://tipe.io/) - Autogenerate graph schemas, live-edit content in browser.
 
 #### Component Library Style Guides
 
@@ -36,6 +36,7 @@
 - [x0](https://github.com/c8r/x0) - Document & develop React components without breaking a sweat.
 - [Styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide.
 - [Pattern Plate](https://github.com/patternplate/patternplate) - Connects design and engineering to establish a single source of truth for your team.
+- [mdx-docs](https://github.com/jxnblk/mdx-docs/) - Document and develop React components with MDX and Next.js.
 
 #### Useful React Libraries
 
