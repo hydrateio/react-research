@@ -39,6 +39,7 @@
 - [Styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide.
 - [Pattern Plate](https://github.com/patternplate/patternplate) - Connects design and engineering to establish a single source of truth for your team.
 - [mdx-docs](https://github.com/jxnblk/mdx-docs/) - Document and develop React components with MDX and Next.js.
+- [mdx-go](https://github.com/jxnblk/mdx-go) - Lightning fast MDX-based dev server for progressive documentation.
 
 #### Useful React Libraries
 
